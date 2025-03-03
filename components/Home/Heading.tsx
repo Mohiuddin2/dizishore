@@ -1,6 +1,6 @@
 const Heading = () => {
   return (
-    <section className="  text-center px-4 py-12">
+    <section className="text-center px-4 py-4">
     <div className="max-w-4xl mx-auto">
       <h1 className="text-3xl md:text-4xl font-bold text-blue-600">
         Join DiziShore® Affiliate Program

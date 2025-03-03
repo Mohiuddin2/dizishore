@@ -10,7 +10,7 @@ const AffiliatePolicy = () => {
         <p className="text-gray-700 mb-1 text-justify">
           To ensure a smooth and transparent experience for all affiliates, we have prepared our own <Link className='underline' href={"https://support.dizishore.com/support/solutions/articles/101000436262-affiliate-policy"}> affiliate policies</Link>.
         </p>
-        <p className="text-gray-700 mb-8">
+        <p className="text-gray-700 mb-4">
           Please read our affiliate policy below:
         </p>
 
