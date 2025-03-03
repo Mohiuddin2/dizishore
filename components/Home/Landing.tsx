@@ -9,7 +9,7 @@ import Heading from "./Heading";
 
 const Landing = () => {
   return (
-    <div className="bg-gradient-to-b from-blue-500 via-white to-blue-100 absolute inset-0 h-full w-full z-0">
+    <div className="bg-gradient-to-r from-blue-200 via-white to-blue-200">
       <Heading/>
       <Dashboard/>
       <AffiliateCTA/>
