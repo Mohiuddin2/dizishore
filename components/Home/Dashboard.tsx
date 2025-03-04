@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const Dashboard = () => {
   return (
-    <section className="max-w-5xl mx-auto flex flex-col items-center justify-center">
+    <section className="max-w-5xl mx-auto flex flex-col items-center justify-center mb-1">
        <Image
         src="/images/dashboard.jpeg"
         alt="Dizishore Dashboard"
