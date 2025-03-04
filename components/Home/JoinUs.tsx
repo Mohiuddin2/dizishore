@@ -31,7 +31,3 @@ const JoinUs = () => {
 }
 
 export default JoinUs;
-
-{/* <Button className="bg-white text-[#00254D] text-sm md:text-md font-bold px-10 md:px-14 mt-0 py-4 md:py-6 rounded-full shadow-md hover:bg-gray-200 transition self-center md:self-center md:ml-6">
-Sign Up Now
-</Button> */}

@@ -1,4 +1,3 @@
-import React from 'react';
 import Image from 'next/image'; 
 import commissionPayoutImage from '../../public/images/commisionStuc.jpeg';
 import { CustomCheckbox } from "@/components/ui/checkbox"

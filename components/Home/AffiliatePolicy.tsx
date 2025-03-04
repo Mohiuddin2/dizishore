@@ -1,4 +1,3 @@
-import React from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import Link from 'next/link';
 
@@ -7,6 +6,7 @@ const AffiliatePolicy = () => {
     <section className="bg-white py-6 px-6">
       <div className="max-w-5xl mx-auto">
         <h1 className="text-3xl font-bold text-blue-600 mb-6">Affiliate Policy</h1>
+
         <p className="text-gray-700 mb-1 text-justify">
           To ensure a smooth and transparent experience for all affiliates, we have prepared our own <Link className='underline' href={"https://support.dizishore.com/support/solutions/articles/101000436262-affiliate-policy"}> affiliate policies</Link>.
         </p>
@@ -22,6 +22,7 @@ const AffiliatePolicy = () => {
             <p className="text-gray-700 text-justify">
               Anyone from around the world who is passionate about digital product selling can join our affiliate program (please review <Link className='underline' href={"https://support.dizishore.com/support/solutions/articles/101000436262-affiliate-policy"}> affiliate policies</Link>). To confirm your participation, you must provide accurate and complete information during our affiliate registration process.
             </p>
+
             <p className="text-gray-700 mt-2 text-justify">
               DiziShore reserves the right to approve or reject any affiliate application with or without any written notice.
             </p>

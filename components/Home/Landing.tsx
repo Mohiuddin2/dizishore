@@ -24,4 +24,3 @@ const Landing = () => {
 }
 
 export default Landing;
-{/* <section className="bg-gradient-to-r from-blue-200 via-white to-blue-200 py-24 text-center"></section> */}
