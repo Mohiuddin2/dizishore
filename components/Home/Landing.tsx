@@ -5,6 +5,7 @@ import CommissionPayoutStructure from "./Comm_payoutStructure";
 import Dashboard from "./Dashboard";
 import AffiliateProgramBenefits from "./Faq";
 import Heading from "./Heading";
+import JoinUs from "./JoinUs";
 
 
 const Landing = () => {
@@ -17,6 +18,7 @@ const Landing = () => {
       <AffiliateProcess/>
       <CommissionPayoutStructure/>
       <AffiliatePolicy/>
+      <JoinUs/>
     </div>
   );
 }

@@ -7,7 +7,7 @@ import { CustomCheckbox } from "@/components/ui/checkbox"
 const CommissionPayoutStructure = () => {
   return (
     <section className="bg-white py-6 md:py-6 px-6">
-      <div className="max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-2 items-start"> 
+      <div className="max-w-5xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-2 items-start"> 
         
         <div>
           <h2 className="text-3xl font-semibold text-blue-600 mb-8">

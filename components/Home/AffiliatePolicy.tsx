@@ -4,7 +4,7 @@ import Link from 'next/link';
 
 const AffiliatePolicy = () => {
   return (
-    <section className="bg-white py-12 px-6">
+    <section className="bg-white py-6 px-6">
       <div className="max-w-5xl mx-auto">
         <h1 className="text-3xl font-bold text-blue-600 mb-6">Affiliate Policy</h1>
         <p className="text-gray-700 mb-1 text-justify">
@@ -14,7 +14,7 @@ const AffiliatePolicy = () => {
           Please read our affiliate policy below:
         </p>
 
-         <Card className="mb-6">
+         <Card className="mb-2">
           <CardHeader>
             <CardTitle className='text-2xl'>Eligibility</CardTitle>
           </CardHeader>
@@ -29,7 +29,7 @@ const AffiliatePolicy = () => {
         </Card>
 
 
-        <Card>
+        <Card className="mb-2">
           <CardHeader>
             <CardTitle className='text-2xl'>Prohibited Activities</CardTitle>
           </CardHeader>
@@ -53,7 +53,7 @@ const AffiliatePolicy = () => {
           </CardContent>
         </Card>
 
-        <Card>
+        <Card className="mb-2">
           <CardHeader>
             <CardTitle className='text-2xl'>Compliance</CardTitle>
           </CardHeader>
@@ -64,7 +64,7 @@ const AffiliatePolicy = () => {
           </CardContent>
         </Card>
 
-        <Card>
+        <Card className="mb-2">
           <CardHeader>
             <CardTitle className='text-2xl'>Termination</CardTitle>
           </CardHeader>
