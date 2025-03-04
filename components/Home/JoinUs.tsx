@@ -14,13 +14,13 @@ const JoinUs = () => {
       <Card className='bg-[#032B4B] p-6'>
         <CardHeader className='text-white'>
           <CardTitle className='text-3xl'>Ready to earn money with the DiziShore affiliate program?</CardTitle>
-          <CardDescription className='max-w-2xl'>
+          <CardDescription className='max-w-2xl text-justify'>
           Join us today and unlock the potential to earn significant commissions by promoting a diverse range of high-quality digital products and services.
           </CardDescription>
         </CardHeader>
         <CardContent>
-        <Button asChild className='bg-white text-[#00254D] px-12 py-4 rounded-full transition self-center hover:bg-gray-200 md:self-center shadow-md'>
-            <Link href="/joinus">Join Us Now</Link>
+        <Button asChild className='bg-white text-blue-600 text-lg px-12 py-6 rounded-full transition self-center hover:bg-gray-200 md:self-center shadow-md'>
+            <Link href="/joinus">Join Us Now!</Link>
         </Button>
 
         </CardContent>
